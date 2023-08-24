@@ -1,7 +1,7 @@
 ---
 author: "Rahul Garg"
 title: "Publications"
-date: "2019-03-05"
+date: "2023-08-24"
 description: "Guide to emoji usage in Hugo"
 tags: ["publications"]
 ShowToc: true
