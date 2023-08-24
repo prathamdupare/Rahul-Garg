@@ -67,13 +67,13 @@ params:
     imageTitle: Rahul Garg
     buttons:
       - name: Experience
-        url: posts/experience/
+        url: /posts/experience/
       - name: Publications
-        url: posts/publications/
+        url: /posts/publications/
       - name: Teaching
-        url: posts/teaching/
+        url: /posts/teaching/
       - name: About
-        url: posts/about/
+        url: /posts/about/
       
 
   # home-info mode
@@ -117,13 +117,13 @@ params:
 menu:
   main:
     - name: Archive
-      url: archives
+      url: /archives/
       weight: 5
     - name: Search
-      url: search/
+      url: /search/
       weight: 10
     - name: Tags
-      url: tags/
+      url: /tags/
       weight: 10
     - name: IISERB
       url: https://maths.iiserb.ac.in/faculty_profile.php?id=Nw%3D%3D&lname=cmFodWxnYXJn
